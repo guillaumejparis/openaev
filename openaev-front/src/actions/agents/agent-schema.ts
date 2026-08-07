@@ -1,5 +1,5 @@
 import { schema } from 'normalizr';
-
+const test = "test";
 export const agent = new schema.Entity(
   'agents',
   {},
